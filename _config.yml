@@ -20,14 +20,14 @@
 
 title: chadrosen.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Thoughts on musings...
+  Thoughts and musings...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chadrosen.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zed
 github_username:  chadrosen
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
