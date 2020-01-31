@@ -27,7 +27,7 @@ twitter_username: zed
 github_username:  chadrosen
 
 # Build settings
-# remote_theme: benbalter/retlab
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -50,5 +50,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-slate
